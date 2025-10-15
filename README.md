@@ -2,8 +2,7 @@
 
 # Hi! My name is Umair Jami, Thank you for taking the time to view my GitHub Profile 👋
 
-<img src="https://media.giphy.com/media/LmN8APk0MhE8S1iC8B/giphy.gif" alt="EAT CODE REPEAT" width="200"/>
-
+<h2> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 </div>
 
 ## About Me
@@ -33,14 +32,12 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-jami&layout=compact&theme=dracula" alt="umair-jami's Most Used Languages" width="380" />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=umair-jami&show_icons=true&theme=dracula&line_height=28" alt="umair-jami's GitHub stats" width="380" />
 </p>
 
 ## Connect with me 🤝
 
 <p align="center">
-    <a href="[http://x.com/Umair593073]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="[https://www.facebook.com/share/1BnFBkcJSi/]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="[https://www.linkedin.com/in/umair-jami/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="http://x.com/Umair593073"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.facebook.com/share/1BnFBkcJSi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/umair-jami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </p>
