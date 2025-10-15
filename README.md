@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! My name is Umair Jami, Thank you for taking the time to view my GitHub Profile 😊
+# Hi! My name is Umair Jami, Thank you for taking the time to view my GitHub Profile 👋
 
 <img src="https://media.giphy.com/media/LmN8APk0MhE8S1iC8B/giphy.gif" alt="EAT CODE REPEAT" width="200"/>
 
@@ -8,10 +8,11 @@
 
 ## About Me
 
-- 🔭 I'm currently working as a Full time freelancer on **Upwork**
-- 🌱 I'm currently learning **React Native** and **Cloud Computing** using **AWS Cloud Development Kit (CDK)** for highly-scalable apps.
-- 👨‍💻 I'm looking to provide solutions to complicated problems.
-- 💬 Ask me about **Gatsby.js**, **Next.js**, **Serverless**, and **PWA's** to create highly-scalable and hybrid web apps.
+- 💻 I’m a passionate **Frontend Developer**, currently growing toward **Full-Stack expertise**.
+- 🧠 I specialize in building modern, responsive web applications and integrating intelligent systems using **Agentic AI**, **Prompt Engineering**, and **Python with FastAPI**.
+- ✨ I enjoy solving complex problems with clean, efficient code and am constantly learning new technologies to stay ahead in the evolving tech world.
+- 🚀 I am actively **seeking new job opportunities** related to Frontend or Full-Stack Development.
+- 💬 Ask me about **Next.js**, **React Native**, **python**, and **Agentic AI** to create highly-scalable and hybrid web apps.
 
 ## Skills ✅
 
@@ -22,10 +23,10 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDK-F79900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Agentic_AI-FF7700?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ## Dynamic Stats
@@ -39,8 +40,7 @@
 ## Connect with me 🤝
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Upwork-6FE5B1?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+    <a href="[http://x.com/Umair593073]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="[https://www.facebook.com/share/1BnFBkcJSi/]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="[https://www.linkedin.com/in/umair-jami/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </p>
